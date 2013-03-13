@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/62/trunk/com/lorentz/SVG/display
+END
+SVGDocument.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/62/trunk/com/lorentz/SVG/display/SVGDocument.as
+END
+SVGShape.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/48/trunk/com/lorentz/SVG/display/SVGShape.as
+END
+IViewBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/48/trunk/com/lorentz/SVG/display/IViewBox.as
+END
+SVGA.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/48/trunk/com/lorentz/SVG/display/SVGA.as
+END
+SVGSymbol.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/55/trunk/com/lorentz/SVG/display/SVGSymbol.as
+END
+SVGDisplayEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/54/trunk/com/lorentz/SVG/display/SVGDisplayEvent.as
+END
+SVGEllipse.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/51/trunk/com/lorentz/SVG/display/SVGEllipse.as
+END
+SVGTSpan.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/48/trunk/com/lorentz/SVG/display/SVGTSpan.as
+END
+SVGClipPath.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/48/trunk/com/lorentz/SVG/display/SVGClipPath.as
+END
+IDocumentSetable.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/59/trunk/com/lorentz/SVG/display/IDocumentSetable.as
+END
+SVGLine.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/51/trunk/com/lorentz/SVG/display/SVGLine.as
+END
+SVGElement.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/62/trunk/com/lorentz/SVG/display/SVGElement.as
+END
+SVGImage.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/49/trunk/com/lorentz/SVG/display/SVGImage.as
+END
+SVGPolygon.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/51/trunk/com/lorentz/SVG/display/SVGPolygon.as
+END
+SVGCircle.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/51/trunk/com/lorentz/SVG/display/SVGCircle.as
+END
+SVGText.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/59/trunk/com/lorentz/SVG/display/SVGText.as
+END
+IViewPort.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/48/trunk/com/lorentz/SVG/display/IViewPort.as
+END
+SVGPattern.as
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/59/trunk/com/lorentz/SVG/display/SVGPattern.as
+END
+SVGPath.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/51/trunk/com/lorentz/SVG/display/SVGPath.as
+END
+SVGRect.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/51/trunk/com/lorentz/SVG/display/SVGRect.as
+END
+SVG.as
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/61/trunk/com/lorentz/SVG/display/SVG.as
+END
+SVGPolyline.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/51/trunk/com/lorentz/SVG/display/SVGPolyline.as
+END
+SVGG.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/48/trunk/com/lorentz/SVG/display/SVGG.as
+END
+SVGUse.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/54/trunk/com/lorentz/SVG/display/SVGUse.as
+END

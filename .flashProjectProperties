@@ -1,0 +1,25 @@
+<projectDescription>
+  <id>1300714624191</id>
+  <name>scoreboard</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Documents and Settings/ajt143/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Documents and Settings/ajt143/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/htdocs/flash/scoreboard/scoreboard.fla</defaultApp>
+  <rootURI>file:///C|/htdocs/flash/scoreboard/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="scoreboard.fla">file:///C|/htdocs/flash/scoreboard/scoreboard.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="scoreboard.fla">file:///C|/htdocs/flash/scoreboard/scoreboard.fla</uri>
+    <uri label="Sign.as">file:///C|/htdocs/flash/scoreboard/edu/psu/sign/Sign.as</uri>
+    <uri label="Item.as">file:///C|/htdocs/flash/scoreboard/edu/psu/sign/Item.as</uri>
+    <uri label="scoreboard.swf">file:///C|/htdocs/flash/scoreboard/scoreboard.swf</uri>
+    <uri label="JSON.as">file:///C|/htdocs/flash/scoreboard/com/adobe/serialization/json/JSON.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

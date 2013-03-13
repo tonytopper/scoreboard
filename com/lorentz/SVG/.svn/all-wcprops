@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/62/trunk/com/lorentz/SVG
+END
+SVGColor.as
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/54/trunk/com/lorentz/SVG/SVGColor.as
+END
+Bezier.as
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/13/trunk/com/lorentz/SVG/Bezier.as
+END
+SVGParserCommon.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/61/trunk/com/lorentz/SVG/SVGParserCommon.as
+END
+MathUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/trunk/com/lorentz/SVG/MathUtils.as
+END
+PathRenderer.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/61/trunk/com/lorentz/SVG/PathRenderer.as
+END
+MatrixTransformer.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/com/lorentz/SVG/MatrixTransformer.as
+END
+SVGUtil.as
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/47/trunk/com/lorentz/SVG/SVGUtil.as
+END
+PathCommand.as
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/com/lorentz/SVG/PathCommand.as
+END
+Base64Decoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/40/trunk/com/lorentz/SVG/Base64Decoder.as
+END
+StringUtil.as
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/18/trunk/com/lorentz/SVG/StringUtil.as
+END
